@@ -1,0 +1,102 @@
+[
+  {
+    "file": "LUMEN_MAP_01.png",
+    "world": 1,
+    "levels": "1-10",
+    "name": "Whispering Blue Forest",
+    "pixels": [
+      410,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_02.png",
+    "world": 2,
+    "levels": "11-20",
+    "name": "Pink Blossom Forest",
+    "pixels": [
+      409,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_03.png",
+    "world": 3,
+    "levels": "21-30",
+    "name": "Giant Mushroom Forest",
+    "pixels": [
+      410,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_04.png",
+    "world": 4,
+    "levels": "31-40",
+    "name": "Golden Autumn Forest",
+    "pixels": [
+      409,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_05.png",
+    "world": 5,
+    "levels": "41-50",
+    "name": "Frozen Crystal Forest",
+    "pixels": [
+      410,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_06.png",
+    "world": 6,
+    "levels": "51-60",
+    "name": "Crimson Root Forest",
+    "pixels": [
+      410,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_07.png",
+    "world": 7,
+    "levels": "61-70",
+    "name": "Sunken Aquatic Forest",
+    "pixels": [
+      409,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_08.png",
+    "world": 8,
+    "levels": "71-80",
+    "name": "Floating Island Forest",
+    "pixels": [
+      410,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_09.png",
+    "world": 9,
+    "levels": "81-90",
+    "name": "Thunderstorm Forest",
+    "pixels": [
+      409,
+      576
+    ]
+  },
+  {
+    "file": "LUMEN_MAP_10.png",
+    "world": 10,
+    "levels": "91-100",
+    "name": "Shadow Forest",
+    "pixels": [
+      410,
+      576
+    ]
+  }
+]
